@@ -1,0 +1,49 @@
+p {
+    color: rgb(red, green, blue);
+    color: #000;
+    color:#8a2be2;
+    /* background-color: antiquewhite; */
+    font-size: 30px;
+    font-size: 50%;
+    font-size: 1em;
+    font-size: 5vw;
+    /* vw: viemport width */
+    /* vh: viweport hight */
+    text-shadow: 1px 1px 5px red;
+    text-decoration: underline;
+}
+
+/* a corresponde a los enlaces */
+a{
+    text-decoration: none;
+    color: #444;
+}
+
+/* #titulo{
+    color: aqua;
+    font-size: 30px;
+    text-decoration: underline;
+} */
+
+/* #titulo, #titulo2{
+    color: aqua;
+    font-size: 30px;
+    text-decoration: underline;
+} */
+
+.tituloh3{
+    color: #8a2be2;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+/* .orange{
+    color: orange;
+} */
+
+/* nivel de especificidad o gerarquia */
+/* 1 estilos en línea */
+/* 2 selector id */
+/* 3 selector de clase */
+/* 4 selector de etiquetas */
